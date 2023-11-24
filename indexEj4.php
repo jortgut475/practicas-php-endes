@@ -8,7 +8,7 @@
 <body>
 <form action="suma_acumulativa.php" method="get">
     <h1>Ingrese 1 numero:<h1>
-    <label for "numero>Numero :</label>
+    <label for "numero">Numero :</label>
         <input type="number" name="numero">
     <br>
     <input type="submit" value="enviar">
